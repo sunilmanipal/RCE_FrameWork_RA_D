@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5330" started-at="2023-07-02T11:19:23 IST" finished-at="2023-07-02T11:19:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5330" started-at="2023-07-02T11:19:23 IST" finished-at="2023-07-02T11:19:29 IST">
+      <class name="GitHubTestCases.GithubRepository">
+        <test-method status="PASS" signature="createrepository()[pri:0, instance:GitHubTestCases.GithubRepository@7113b13f]" name="createrepository" duration-ms="5260" started-at="2023-07-02T11:19:23 IST" finished-at="2023-07-02T11:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createrepository -->
+      </class> <!-- GitHubTestCases.GithubRepository -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
